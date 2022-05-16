@@ -1,0 +1,13 @@
+﻿Updater:
+
+Run RimworldModUpdater.exe
+If not set already, select your rimworld installation folder by clicking "Open Rimworld folder" in the top left.
+Click "Query Mod Files" and wait fof inish checking for outdated mods.
+After it's finished querying, you can either select multiple mods and right click to update specific mods, or just click "Update All" to update every mod in the list.
+
+
+Downloader:
+
+Simply browse to any file/collection page using the embedded browser and click the subscribe button on the page. The mod will be automatically downloaded & dropped into your Mods folder.
+Newly downloaded mods will show up in the "Downloaded Mods" tab.
+Collection files will not show in "Downloaded Mods" until the entire collection is finished downloading.
